@@ -1,0 +1,18 @@
+#skills {
+  .container {
+    .row {
+      div {
+        .mt-5:hover {
+          box-shadow: 2px 2px 10px 1px grey;
+          transition: 0.3s ease-in-out;
+          color: red;
+        }
+
+        .mt-5 {
+          transition: 0.3s ease-in-out;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
